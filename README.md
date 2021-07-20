@@ -5,7 +5,7 @@ This is a work in progress for a simple ESP32 to HUB75 breakout board.
 
 _**Please use at your own risk**_
 
-**Process so far:**
+## Process so far:
 1. Build and test breadboard prototype
 2. Build and test perf board prototype
 3. Develop KiCAD for intial prototype PCB 
