@@ -13,3 +13,7 @@ _**Please use at your own risk**_
 5. Revise KiCAD model to Revision 1 (incorporating a fuse and power i/o changes)
 6. Order and test Rev 1 prototype PCB   <<<<<<<< 
 7. 
+
+
+![Front of board](/pictures/Board%20rendering.png)
+Format: ![Alt Text](url)
