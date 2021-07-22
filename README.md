@@ -14,7 +14,12 @@ _**Please use at your own risk**_
 6. Order and test Rev 1 prototype PCB   <<<<<<<< 
 7. 
 
+### Rev 0 board
+![Raw Board](https://github.com/lbehrler/LED-Matrix-HUB-75-Breakout-Board/blob/main/pictures/rev0_board.jpg)
 
+![installed board](https://github.com/lbehrler/LED-Matrix-HUB-75-Breakout-Board/blob/main/pictures/rev0_board.jpg)
+
+### Rev 1 Renderings
 ![Front of board](/pictures/Board%20rendering.png)
- # 
+## 
 ![Back of board](/pictures/Board%20rendering%20back.png)
