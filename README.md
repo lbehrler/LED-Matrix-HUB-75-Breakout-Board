@@ -8,10 +8,10 @@ _**Please use at your own risk**_
 ## Process so far:
 1. Build and test breadboard prototype
 2. Build and test perf board prototype
-3. Develop KiCAD for intial prototype PCB 
-4. Order and test prototype boards from PCB house 
-5. Revise KiCAD model to Revision 1 (incorporating a fuse and power i/o changes)
-6. Order and test Rev 1 prototype PCB   <<<<<<<< 
+3. Develop KiCAD for intial prototype PCB Rev 0
+4. Order and test prototype boards from PCB house Rev 0
+5. Revise KiCAD model to Rev 1 (incorporating a fuse and power i/o changes)
+6. NEXT STEP: Order and test Rev 1 prototype PCB   <<<<<<<< 
 7. 
 
 ### Rev 0 board
