@@ -17,7 +17,7 @@ _**Please use at your own risk**_
 ### Rev 0 board
 ![Raw Board](https://github.com/lbehrler/LED-Matrix-HUB-75-Breakout-Board/blob/main/pictures/rev0_board.jpg)
 
-![installed board](https://github.com/lbehrler/LED-Matrix-HUB-75-Breakout-Board/blob/main/pictures/rev0_board.jpg)
+![installed board](https://github.com/lbehrler/LED-Matrix-HUB-75-Breakout-Board/blob/main/pictures/Installed.jpg)
 
 ### Rev 1 Renderings
 ![Front of board](/pictures/Board%20rendering.png)
